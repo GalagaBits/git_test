@@ -1,5 +1,7 @@
 Hello! This is my first commit to the text document.
 
-This is my second commit! Keep going!
+
+Second commit!
 
 Adding my third commit over here! Finished!!
+
